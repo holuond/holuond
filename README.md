@@ -2,7 +2,7 @@
 
 My name is Ondřej and I'm a software developer.
 
-I focus on smart data solutions and data engineering. I also have moderate experience in statistics, machine learning, data mining, linked data, and business intelligence.
+I focus on smart data solutions. I have moderate experience in data engineering, statistics, machine learning, data mining, linked (open) data, and business intelligence.
 
 <hr>
 <h4 align="left">Connect with me:</h4>
